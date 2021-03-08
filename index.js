@@ -30,3 +30,5 @@ function start() {
             "End"]
 })
 };
+
+start();
