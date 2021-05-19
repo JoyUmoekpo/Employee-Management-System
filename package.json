@@ -1,7 +1,7 @@
 {
-  "name": "employee-tracker",
+  "name": "employee-management-system",
   "version": "1.0.0",
-  "description": "",
+  "description": "With this employee management system, the user will be able to see employees and their role in the system. They will be able to view, update, and delete this system as well.",
   "main": "index.js",
   "scripts": {
     "start": "node index"
@@ -13,6 +13,7 @@
     "console.table": "^0.10.0",
     "dotenv": "^9.0.2",
     "inquirer": "^7.0.0",
-    "mysql2": "^2.2.5"
+    "mysql2": "^2.2.5",
+    "seed": "^0.4.4"
   }
 }
